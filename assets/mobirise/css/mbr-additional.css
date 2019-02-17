@@ -1677,10 +1677,10 @@ body {
 .cid-qTkA127IK8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/-1280x760.jpg");
 }
 .cid-qTkA127IK8 H1 {
-  color: #b1a374;
+  color: #55b4d4;
   text-align: center;
 }
 .cid-qTkA127IK8 .mbr-text,
@@ -1711,6 +1711,50 @@ body {
     padding-left: 0;
     padding-right: 4rem;
   }
+}
+.cid-rijSMD3Ib3 {
+  background-image: url("../../../assets/images/intraoral-suturing-2000x1124.jpg");
+}
+.cid-rijSMD3Ib3 .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-rijSMD3Ib3 .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rijSMD3Ib3 .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-rijUxMi6l8 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rijUxMi6l8 .title {
+  margin-bottom: 2rem;
+}
+.cid-rijUxMi6l8 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rijUxMi6l8 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rijUxMi6l8 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rijUxMi6l8 .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rijUxMi6l8 .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-rfRVfqtj3D {
   padding-top: 90px;
